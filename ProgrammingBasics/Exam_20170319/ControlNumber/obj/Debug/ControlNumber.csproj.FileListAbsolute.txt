@@ -1,0 +1,5 @@
+C:\SoftUni\MyExam\ControlNumber\bin\Debug\ControlNumber.exe.config
+C:\SoftUni\MyExam\ControlNumber\bin\Debug\ControlNumber.exe
+C:\SoftUni\MyExam\ControlNumber\bin\Debug\ControlNumber.pdb
+C:\SoftUni\MyExam\ControlNumber\obj\Debug\ControlNumber.exe
+C:\SoftUni\MyExam\ControlNumber\obj\Debug\ControlNumber.pdb

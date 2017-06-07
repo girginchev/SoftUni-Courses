@@ -1,0 +1,6 @@
+C:\SoftUni\MyExam\GrapeAndRakia\bin\Debug\GrapeAndRakia.exe.config
+C:\SoftUni\MyExam\GrapeAndRakia\bin\Debug\GrapeAndRakia.exe
+C:\SoftUni\MyExam\GrapeAndRakia\bin\Debug\GrapeAndRakia.pdb
+C:\SoftUni\MyExam\GrapeAndRakia\obj\Debug\GrapeAndRakia.csprojResolveAssemblyReference.cache
+C:\SoftUni\MyExam\GrapeAndRakia\obj\Debug\GrapeAndRakia.exe
+C:\SoftUni\MyExam\GrapeAndRakia\obj\Debug\GrapeAndRakia.pdb

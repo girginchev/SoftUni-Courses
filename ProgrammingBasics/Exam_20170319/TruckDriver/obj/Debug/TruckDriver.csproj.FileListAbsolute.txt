@@ -1,0 +1,5 @@
+C:\SoftUni\MyExam\TruckDriver\bin\Debug\TruckDriver.exe.config
+C:\SoftUni\MyExam\TruckDriver\bin\Debug\TruckDriver.exe
+C:\SoftUni\MyExam\TruckDriver\bin\Debug\TruckDriver.pdb
+C:\SoftUni\MyExam\TruckDriver\obj\Debug\TruckDriver.exe
+C:\SoftUni\MyExam\TruckDriver\obj\Debug\TruckDriver.pdb

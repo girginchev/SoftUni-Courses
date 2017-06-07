@@ -1,0 +1,5 @@
+C:\SoftUni\MyExam\Styrofoam\bin\Debug\Styrofoam.exe.config
+C:\SoftUni\MyExam\Styrofoam\bin\Debug\Styrofoam.exe
+C:\SoftUni\MyExam\Styrofoam\bin\Debug\Styrofoam.pdb
+C:\SoftUni\MyExam\Styrofoam\obj\Debug\Styrofoam.exe
+C:\SoftUni\MyExam\Styrofoam\obj\Debug\Styrofoam.pdb

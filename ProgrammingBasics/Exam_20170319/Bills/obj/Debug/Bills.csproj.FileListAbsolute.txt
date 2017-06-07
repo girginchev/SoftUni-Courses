@@ -1,0 +1,5 @@
+C:\SoftUni\MyExam\Bills\bin\Debug\Bills.exe.config
+C:\SoftUni\MyExam\Bills\bin\Debug\Bills.exe
+C:\SoftUni\MyExam\Bills\bin\Debug\Bills.pdb
+C:\SoftUni\MyExam\Bills\obj\Debug\Bills.exe
+C:\SoftUni\MyExam\Bills\obj\Debug\Bills.pdb
