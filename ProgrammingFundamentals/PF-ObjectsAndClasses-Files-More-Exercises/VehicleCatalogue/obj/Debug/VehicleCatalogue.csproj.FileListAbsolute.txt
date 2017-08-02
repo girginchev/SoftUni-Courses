@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\VehicleCatalogue\bin\Debug\VehicleCatalogue.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\VehicleCatalogue\bin\Debug\VehicleCatalogue.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\VehicleCatalogue\bin\Debug\VehicleCatalogue.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\VehicleCatalogue\obj\Debug\VehicleCatalogue.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\VehicleCatalogue\obj\Debug\VehicleCatalogue.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\VehicleCatalogue\obj\Debug\VehicleCatalogue.pdb

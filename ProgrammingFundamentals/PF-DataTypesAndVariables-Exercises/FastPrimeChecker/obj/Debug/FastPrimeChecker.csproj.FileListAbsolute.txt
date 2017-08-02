@@ -1,0 +1,5 @@
+C:\SoftUni\PFDataTypesAndVariables\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe.config
+C:\SoftUni\PFDataTypesAndVariables\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe
+C:\SoftUni\PFDataTypesAndVariables\FastPrimeChecker\bin\Debug\FastPrimeChecker.pdb
+C:\SoftUni\PFDataTypesAndVariables\FastPrimeChecker\obj\Debug\FastPrimeChecker.exe
+C:\SoftUni\PFDataTypesAndVariables\FastPrimeChecker\obj\Debug\FastPrimeChecker.pdb

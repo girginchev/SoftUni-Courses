@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PlayAndCatch\bin\Debug\PlayAndCatch.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PlayAndCatch\bin\Debug\PlayAndCatch.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PlayAndCatch\bin\Debug\PlayAndCatch.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PlayAndCatch\obj\Debug\PlayAndCatch.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PlayAndCatch\obj\Debug\PlayAndCatch.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PlayAndCatch\obj\Debug\PlayAndCatch.pdb

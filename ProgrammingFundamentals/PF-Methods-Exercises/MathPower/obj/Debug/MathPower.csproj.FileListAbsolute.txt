@@ -1,0 +1,5 @@
+C:\SoftUni\PFMethodsExcercises\MathPower\bin\Debug\MathPower.exe
+C:\SoftUni\PFMethodsExcercises\MathPower\bin\Debug\MathPower.pdb
+C:\SoftUni\PFMethodsExcercises\MathPower\obj\Debug\MathPower.csprojResolveAssemblyReference.cache
+C:\SoftUni\PFMethodsExcercises\MathPower\obj\Debug\MathPower.exe
+C:\SoftUni\PFMethodsExcercises\MathPower\obj\Debug\MathPower.pdb

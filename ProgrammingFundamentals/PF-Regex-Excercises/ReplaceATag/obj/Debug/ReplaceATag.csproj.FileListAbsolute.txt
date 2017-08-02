@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ReplaceATag\bin\Debug\ReplaceATag.exe.config
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ReplaceATag\bin\Debug\ReplaceATag.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ReplaceATag\bin\Debug\ReplaceATag.pdb
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ReplaceATag\obj\Debug\ReplaceATag.csprojResolveAssemblyReference.cache
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ReplaceATag\obj\Debug\ReplaceATag.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ReplaceATag\obj\Debug\ReplaceATag.pdb

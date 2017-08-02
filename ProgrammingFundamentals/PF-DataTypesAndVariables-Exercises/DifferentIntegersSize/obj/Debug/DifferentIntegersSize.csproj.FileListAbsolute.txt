@@ -1,0 +1,6 @@
+C:\SoftUni\PFDataTypesAndVariables\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+C:\SoftUni\PFDataTypesAndVariables\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+C:\SoftUni\PFDataTypesAndVariables\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+C:\SoftUni\PFDataTypesAndVariables\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+C:\SoftUni\PFDataTypesAndVariables\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb
+C:\SoftUni\PFDataTypesAndVariables\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csprojResolveAssemblyReference.cache

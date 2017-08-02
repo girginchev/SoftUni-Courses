@@ -1,0 +1,6 @@
+C:\SoftUni\DictionaryExcersices\LegendaryFarming\bin\Debug\LegendaryFarming.exe.config
+C:\SoftUni\DictionaryExcersices\LegendaryFarming\bin\Debug\LegendaryFarming.exe
+C:\SoftUni\DictionaryExcersices\LegendaryFarming\bin\Debug\LegendaryFarming.pdb
+C:\SoftUni\DictionaryExcersices\LegendaryFarming\obj\Debug\LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\SoftUni\DictionaryExcersices\LegendaryFarming\obj\Debug\LegendaryFarming.exe
+C:\SoftUni\DictionaryExcersices\LegendaryFarming\obj\Debug\LegendaryFarming.pdb

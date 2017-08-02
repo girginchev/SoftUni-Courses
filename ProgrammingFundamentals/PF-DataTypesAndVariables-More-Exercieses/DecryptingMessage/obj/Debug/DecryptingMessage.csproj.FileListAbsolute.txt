@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\DecryptingMessage\bin\Debug\DecryptingMessage.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\DecryptingMessage\bin\Debug\DecryptingMessage.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\DecryptingMessage\bin\Debug\DecryptingMessage.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\DecryptingMessage\obj\Debug\DecryptingMessage.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\DecryptingMessage\obj\Debug\DecryptingMessage.pdb

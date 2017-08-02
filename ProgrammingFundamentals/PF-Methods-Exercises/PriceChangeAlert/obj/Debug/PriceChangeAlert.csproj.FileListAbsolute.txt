@@ -1,0 +1,6 @@
+C:\SoftUni\PFMethodsExcercises\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe.config
+C:\SoftUni\PFMethodsExcercises\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe
+C:\SoftUni\PFMethodsExcercises\PriceChangeAlert\bin\Debug\PriceChangeAlert.pdb
+C:\SoftUni\PFMethodsExcercises\PriceChangeAlert\obj\Debug\PriceChangeAlert.csprojResolveAssemblyReference.cache
+C:\SoftUni\PFMethodsExcercises\PriceChangeAlert\obj\Debug\PriceChangeAlert.exe
+C:\SoftUni\PFMethodsExcercises\PriceChangeAlert\obj\Debug\PriceChangeAlert.pdb

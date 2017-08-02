@@ -1,0 +1,6 @@
+C:\SoftUni\PFMethodsExcercises\BePositive\bin\Debug\BePositive.exe.config
+C:\SoftUni\PFMethodsExcercises\BePositive\bin\Debug\BePositive.exe
+C:\SoftUni\PFMethodsExcercises\BePositive\bin\Debug\BePositive.pdb
+C:\SoftUni\PFMethodsExcercises\BePositive\obj\Debug\BePositive.exe
+C:\SoftUni\PFMethodsExcercises\BePositive\obj\Debug\BePositive.pdb
+C:\SoftUni\PFMethodsExcercises\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache

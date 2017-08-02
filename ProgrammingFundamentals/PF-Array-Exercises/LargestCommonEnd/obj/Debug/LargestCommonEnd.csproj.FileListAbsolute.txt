@@ -1,0 +1,6 @@
+C:\SoftUni\ArraysExcercices\LargestCommonEnd\bin\Debug\LargestCommonEnd.exe.config
+C:\SoftUni\ArraysExcercices\LargestCommonEnd\bin\Debug\LargestCommonEnd.exe
+C:\SoftUni\ArraysExcercices\LargestCommonEnd\bin\Debug\LargestCommonEnd.pdb
+C:\SoftUni\ArraysExcercices\LargestCommonEnd\obj\Debug\LargestCommonEnd.csprojResolveAssemblyReference.cache
+C:\SoftUni\ArraysExcercices\LargestCommonEnd\obj\Debug\LargestCommonEnd.exe
+C:\SoftUni\ArraysExcercices\LargestCommonEnd\obj\Debug\LargestCommonEnd.pdb

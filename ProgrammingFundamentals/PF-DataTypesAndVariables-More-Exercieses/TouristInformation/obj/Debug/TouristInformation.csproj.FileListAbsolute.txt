@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\TouristInformation\bin\Debug\TouristInformation.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\TouristInformation\bin\Debug\TouristInformation.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\TouristInformation\bin\Debug\TouristInformation.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\TouristInformation\obj\Debug\TouristInformation.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\TouristInformation\obj\Debug\TouristInformation.pdb

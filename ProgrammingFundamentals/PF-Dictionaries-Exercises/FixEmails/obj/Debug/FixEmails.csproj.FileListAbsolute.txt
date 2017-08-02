@@ -1,0 +1,6 @@
+C:\SoftUni\DictionaryExcersices\FixEmails\bin\Debug\FixEmails.exe.config
+C:\SoftUni\DictionaryExcersices\FixEmails\bin\Debug\FixEmails.exe
+C:\SoftUni\DictionaryExcersices\FixEmails\bin\Debug\FixEmails.pdb
+C:\SoftUni\DictionaryExcersices\FixEmails\obj\Debug\FixEmails.exe
+C:\SoftUni\DictionaryExcersices\FixEmails\obj\Debug\FixEmails.pdb
+C:\SoftUni\DictionaryExcersices\FixEmails\obj\Debug\FixEmails.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\SoftUni\PFDataTypesAndVariables\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe.config
+C:\SoftUni\PFDataTypesAndVariables\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe
+C:\SoftUni\PFDataTypesAndVariables\TheaThePhotographer\bin\Debug\TheaThePhotographer.pdb
+C:\SoftUni\PFDataTypesAndVariables\TheaThePhotographer\obj\Debug\TheaThePhotographer.csprojResolveAssemblyReference.cache
+C:\SoftUni\PFDataTypesAndVariables\TheaThePhotographer\obj\Debug\TheaThePhotographer.exe
+C:\SoftUni\PFDataTypesAndVariables\TheaThePhotographer\obj\Debug\TheaThePhotographer.pdb

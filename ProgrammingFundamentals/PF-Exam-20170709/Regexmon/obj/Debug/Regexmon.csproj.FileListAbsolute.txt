@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\PF09072017Exam\Regexmon\bin\Debug\Regexmon.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\PF09072017Exam\Regexmon\bin\Debug\Regexmon.exe
+c:\users\viktor\documents\visual studio 2015\Projects\PF09072017Exam\Regexmon\bin\Debug\Regexmon.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\PF09072017Exam\Regexmon\obj\Debug\Regexmon.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\PF09072017Exam\Regexmon\obj\Debug\Regexmon.exe
+c:\users\viktor\documents\visual studio 2015\Projects\PF09072017Exam\Regexmon\obj\Debug\Regexmon.pdb

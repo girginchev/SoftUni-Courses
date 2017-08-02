@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBaseNtoBaseTen\bin\Debug\ConvertFromBaseNtoBaseTen.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBaseNtoBaseTen\bin\Debug\ConvertFromBaseNtoBaseTen.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBaseNtoBaseTen\bin\Debug\ConvertFromBaseNtoBaseTen.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBaseNtoBaseTen\obj\Debug\ConvertFromBaseNtoBaseTen.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBaseNtoBaseTen\obj\Debug\ConvertFromBaseNtoBaseTen.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBaseNtoBaseTen\obj\Debug\ConvertFromBaseNtoBaseTen.pdb

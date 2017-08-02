@@ -1,0 +1,5 @@
+C:\SoftUni\PFDataTypesAndVariables\PracticeFloatingNums\bin\Debug\PracticeFloatingNums.exe.config
+C:\SoftUni\PFDataTypesAndVariables\PracticeFloatingNums\bin\Debug\PracticeFloatingNums.exe
+C:\SoftUni\PFDataTypesAndVariables\PracticeFloatingNums\bin\Debug\PracticeFloatingNums.pdb
+C:\SoftUni\PFDataTypesAndVariables\PracticeFloatingNums\obj\Debug\PracticeFloatingNums.exe
+C:\SoftUni\PFDataTypesAndVariables\PracticeFloatingNums\obj\Debug\PracticeFloatingNums.pdb

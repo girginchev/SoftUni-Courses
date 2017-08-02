@@ -1,0 +1,6 @@
+C:\SoftUni\DictionaryExcersices\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\SoftUni\DictionaryExcersices\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\SoftUni\DictionaryExcersices\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\SoftUni\DictionaryExcersices\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\SoftUni\DictionaryExcersices\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\SoftUni\DictionaryExcersices\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

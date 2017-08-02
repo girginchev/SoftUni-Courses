@@ -1,0 +1,5 @@
+C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

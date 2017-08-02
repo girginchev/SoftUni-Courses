@@ -1,0 +1,6 @@
+C:\SoftUni\PFDataTypesAndVariables\RectangleProperties\bin\Debug\RectangleProperties.exe.config
+C:\SoftUni\PFDataTypesAndVariables\RectangleProperties\bin\Debug\RectangleProperties.exe
+C:\SoftUni\PFDataTypesAndVariables\RectangleProperties\bin\Debug\RectangleProperties.pdb
+C:\SoftUni\PFDataTypesAndVariables\RectangleProperties\obj\Debug\RectangleProperties.csprojResolveAssemblyReference.cache
+C:\SoftUni\PFDataTypesAndVariables\RectangleProperties\obj\Debug\RectangleProperties.exe
+C:\SoftUni\PFDataTypesAndVariables\RectangleProperties\obj\Debug\RectangleProperties.pdb

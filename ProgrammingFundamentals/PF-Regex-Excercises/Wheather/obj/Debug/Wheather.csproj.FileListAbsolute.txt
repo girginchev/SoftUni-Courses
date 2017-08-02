@@ -1,0 +1,6 @@
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\Wheather\bin\Debug\Wheather.exe.config
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\Wheather\bin\Debug\Wheather.exe
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\Wheather\bin\Debug\Wheather.pdb
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\Wheather\obj\Debug\Wheather.csprojResolveAssemblyReference.cache
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\Wheather\obj\Debug\Wheather.exe
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\Wheather\obj\Debug\Wheather.pdb

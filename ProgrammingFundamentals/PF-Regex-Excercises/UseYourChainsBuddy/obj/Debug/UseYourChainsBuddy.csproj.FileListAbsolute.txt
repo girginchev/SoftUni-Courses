@@ -1,0 +1,6 @@
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\UseYourChainsBuddy\bin\Debug\UseYourChainsBuddy.exe.config
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\UseYourChainsBuddy\bin\Debug\UseYourChainsBuddy.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\UseYourChainsBuddy\bin\Debug\UseYourChainsBuddy.pdb
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\UseYourChainsBuddy\obj\Debug\UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\UseYourChainsBuddy\obj\Debug\UseYourChainsBuddy.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\UseYourChainsBuddy\obj\Debug\UseYourChainsBuddy.pdb

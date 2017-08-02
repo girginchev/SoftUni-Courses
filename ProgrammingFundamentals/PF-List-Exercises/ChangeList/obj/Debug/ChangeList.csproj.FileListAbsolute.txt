@@ -1,0 +1,6 @@
+C:\SoftUni\ListsExcersices\ChangeList\bin\Debug\ChangeList.exe.config
+C:\SoftUni\ListsExcersices\ChangeList\bin\Debug\ChangeList.exe
+C:\SoftUni\ListsExcersices\ChangeList\bin\Debug\ChangeList.pdb
+C:\SoftUni\ListsExcersices\ChangeList\obj\Debug\ChangeList.csprojResolveAssemblyReference.cache
+C:\SoftUni\ListsExcersices\ChangeList\obj\Debug\ChangeList.exe
+C:\SoftUni\ListsExcersices\ChangeList\obj\Debug\ChangeList.pdb

@@ -1,0 +1,6 @@
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ValidUsernames\bin\Debug\ValidUsernames.exe.config
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ValidUsernames\bin\Debug\ValidUsernames.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ValidUsernames\bin\Debug\ValidUsernames.pdb
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ValidUsernames\obj\Debug\ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ValidUsernames\obj\Debug\ValidUsernames.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ValidUsernames\obj\Debug\ValidUsernames.pdb

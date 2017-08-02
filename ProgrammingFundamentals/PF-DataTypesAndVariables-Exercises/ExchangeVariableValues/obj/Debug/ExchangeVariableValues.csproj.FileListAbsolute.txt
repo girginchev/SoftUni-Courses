@@ -1,0 +1,5 @@
+C:\SoftUni\PFDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\SoftUni\PFDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\SoftUni\PFDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\SoftUni\PFDataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\SoftUni\PFDataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

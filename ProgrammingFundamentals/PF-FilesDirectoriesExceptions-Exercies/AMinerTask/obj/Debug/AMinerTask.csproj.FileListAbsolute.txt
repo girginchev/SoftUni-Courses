@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AMinerTask\bin\Debug\AMinerTask.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AMinerTask\bin\Debug\AMinerTask.exe
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AMinerTask\bin\Debug\AMinerTask.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AMinerTask\obj\Debug\AMinerTask.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AMinerTask\obj\Debug\AMinerTask.exe
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AMinerTask\obj\Debug\AMinerTask.pdb

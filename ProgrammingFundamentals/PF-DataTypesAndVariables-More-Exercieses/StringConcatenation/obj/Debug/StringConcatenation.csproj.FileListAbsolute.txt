@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\StringConcatenation\bin\Debug\StringConcatenation.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\StringConcatenation\bin\Debug\StringConcatenation.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\StringConcatenation\bin\Debug\StringConcatenation.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\StringConcatenation\obj\Debug\StringConcatenation.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\StringConcatenation\obj\Debug\StringConcatenation.pdb

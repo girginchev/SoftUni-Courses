@@ -1,0 +1,5 @@
+C:\SoftUni\PFMethodsExcercises\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\SoftUni\PFMethodsExcercises\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\SoftUni\PFMethodsExcercises\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\SoftUni\PFMethodsExcercises\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\SoftUni\PFMethodsExcercises\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

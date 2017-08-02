@@ -1,0 +1,5 @@
+C:\SoftUni\PFMethodsExcercises\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe.config
+C:\SoftUni\PFMethodsExcercises\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe
+C:\SoftUni\PFMethodsExcercises\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.pdb
+C:\SoftUni\PFMethodsExcercises\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.exe
+C:\SoftUni\PFMethodsExcercises\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.pdb

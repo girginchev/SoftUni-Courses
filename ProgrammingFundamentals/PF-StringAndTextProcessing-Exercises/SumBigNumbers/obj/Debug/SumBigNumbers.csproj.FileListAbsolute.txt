@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\SumBigNumbers\bin\Debug\SumBigNumbers.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\SumBigNumbers\bin\Debug\SumBigNumbers.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\SumBigNumbers\bin\Debug\SumBigNumbers.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\SumBigNumbers\obj\Debug\SumBigNumbers.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\SumBigNumbers\obj\Debug\SumBigNumbers.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\SumBigNumbers\obj\Debug\SumBigNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\NumberChecker\bin\Debug\NumberChecker.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\NumberChecker\bin\Debug\NumberChecker.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\NumberChecker\bin\Debug\NumberChecker.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\NumberChecker\obj\Debug\NumberChecker.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\NumberChecker\obj\Debug\NumberChecker.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\NumberChecker\obj\Debug\NumberChecker.pdb

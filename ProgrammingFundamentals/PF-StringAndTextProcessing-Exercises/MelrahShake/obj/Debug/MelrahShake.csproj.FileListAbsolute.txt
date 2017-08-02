@@ -1,0 +1,5 @@
+C:\Users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\MelrahShake\bin\Debug\MelrahShake.exe.config
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MelrahShake\bin\Debug\MelrahShake.exe
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MelrahShake\bin\Debug\MelrahShake.pdb
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MelrahShake\obj\Debug\MelrahShake.exe
+C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MelrahShake\obj\Debug\MelrahShake.pdb

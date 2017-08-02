@@ -1,0 +1,6 @@
+C:\SoftUni\ArraysExcercices\MaxSequenceIncreasingElements\bin\Debug\MaxSequenceIncreasingElements.exe.config
+C:\SoftUni\ArraysExcercices\MaxSequenceIncreasingElements\bin\Debug\MaxSequenceIncreasingElements.exe
+C:\SoftUni\ArraysExcercices\MaxSequenceIncreasingElements\bin\Debug\MaxSequenceIncreasingElements.pdb
+C:\SoftUni\ArraysExcercices\MaxSequenceIncreasingElements\obj\Debug\MaxSequenceIncreasingElements.exe
+C:\SoftUni\ArraysExcercices\MaxSequenceIncreasingElements\obj\Debug\MaxSequenceIncreasingElements.pdb
+C:\SoftUni\ArraysExcercices\MaxSequenceIncreasingElements\obj\Debug\MaxSequenceIncreasingElements.csprojResolveAssemblyReference.cache

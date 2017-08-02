@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBase10toBaseN\bin\Debug\ConvertFromBase10toBaseN.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBase10toBaseN\bin\Debug\ConvertFromBase10toBaseN.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBase10toBaseN\bin\Debug\ConvertFromBase10toBaseN.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBase10toBaseN\obj\Debug\ConvertFromBase10toBaseN.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBase10toBaseN\obj\Debug\ConvertFromBase10toBaseN.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\ConvertFromBase10toBaseN\obj\Debug\ConvertFromBase10toBaseN.pdb

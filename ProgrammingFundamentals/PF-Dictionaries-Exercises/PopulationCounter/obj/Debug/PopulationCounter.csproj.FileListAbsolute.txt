@@ -1,0 +1,6 @@
+C:\SoftUni\DictionaryExcersices\PopulationCounter\bin\Debug\PopulationCounter.exe.config
+C:\SoftUni\DictionaryExcersices\PopulationCounter\bin\Debug\PopulationCounter.exe
+C:\SoftUni\DictionaryExcersices\PopulationCounter\bin\Debug\PopulationCounter.pdb
+C:\SoftUni\DictionaryExcersices\PopulationCounter\obj\Debug\PopulationCounter.csprojResolveAssemblyReference.cache
+C:\SoftUni\DictionaryExcersices\PopulationCounter\obj\Debug\PopulationCounter.exe
+C:\SoftUni\DictionaryExcersices\PopulationCounter\obj\Debug\PopulationCounter.pdb

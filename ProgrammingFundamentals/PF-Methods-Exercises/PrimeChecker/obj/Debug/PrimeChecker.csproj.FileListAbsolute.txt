@@ -1,0 +1,5 @@
+C:\SoftUni\PFMethodsExcercises\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+C:\SoftUni\PFMethodsExcercises\PrimeChecker\bin\Debug\PrimeChecker.exe
+C:\SoftUni\PFMethodsExcercises\PrimeChecker\bin\Debug\PrimeChecker.pdb
+C:\SoftUni\PFMethodsExcercises\PrimeChecker\obj\Debug\PrimeChecker.exe
+C:\SoftUni\PFMethodsExcercises\PrimeChecker\obj\Debug\PrimeChecker.pdb
