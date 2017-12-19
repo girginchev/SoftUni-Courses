@@ -1,5 +1,0 @@
-C:\SoftUni\DictionaryExcersices\AMinerTask\bin\Debug\AMinerTask.exe.config
-C:\SoftUni\DictionaryExcersices\AMinerTask\bin\Debug\AMinerTask.exe
-C:\SoftUni\DictionaryExcersices\AMinerTask\bin\Debug\AMinerTask.pdb
-C:\SoftUni\DictionaryExcersices\AMinerTask\obj\Debug\AMinerTask.exe
-C:\SoftUni\DictionaryExcersices\AMinerTask\obj\Debug\AMinerTask.pdb

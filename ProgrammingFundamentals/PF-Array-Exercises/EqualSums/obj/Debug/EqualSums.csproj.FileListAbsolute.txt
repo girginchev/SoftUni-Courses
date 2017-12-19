@@ -1,6 +1,0 @@
-C:\SoftUni\ArraysExcercices\EqualSums\bin\Debug\EqualSums.exe.config
-C:\SoftUni\ArraysExcercices\EqualSums\obj\Debug\EqualSums.csprojResolveAssemblyReference.cache
-C:\SoftUni\ArraysExcercices\EqualSums\bin\Debug\EqualSums.exe
-C:\SoftUni\ArraysExcercices\EqualSums\bin\Debug\EqualSums.pdb
-C:\SoftUni\ArraysExcercices\EqualSums\obj\Debug\EqualSums.exe
-C:\SoftUni\ArraysExcercices\EqualSums\obj\Debug\EqualSums.pdb

@@ -1,6 +1,0 @@
-C:\SoftUni\PFDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
-C:\SoftUni\PFDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
-C:\SoftUni\PFDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
-C:\SoftUni\PFDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
-C:\SoftUni\PFDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb
-C:\SoftUni\PFDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.csprojResolveAssemblyReference.cache

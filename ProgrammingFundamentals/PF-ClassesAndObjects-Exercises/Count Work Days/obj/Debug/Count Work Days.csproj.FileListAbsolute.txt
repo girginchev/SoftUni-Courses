@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\Count Work Days\bin\Debug\Count Work Days.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\Count Work Days\bin\Debug\Count Work Days.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\Count Work Days\bin\Debug\Count Work Days.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\Count Work Days\obj\Debug\Count Work Days.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\Count Work Days\obj\Debug\Count Work Days.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\Count Work Days\obj\Debug\Count Work Days.pdb

@@ -1,5 +1,0 @@
-C:\SoftUni\PFDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.config
-C:\SoftUni\PFDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe
-C:\SoftUni\PFDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.pdb
-C:\SoftUni\PFDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.exe
-C:\SoftUni\PFDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.pdb

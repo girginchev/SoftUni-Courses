@@ -1,6 +1,0 @@
-C:\SoftUni\DictionaryExcersices\DragonArmy\bin\Debug\DragonArmy.exe.config
-C:\SoftUni\DictionaryExcersices\DragonArmy\bin\Debug\DragonArmy.exe
-C:\SoftUni\DictionaryExcersices\DragonArmy\bin\Debug\DragonArmy.pdb
-C:\SoftUni\DictionaryExcersices\DragonArmy\obj\Debug\DragonArmy.csprojResolveAssemblyReference.cache
-C:\SoftUni\DictionaryExcersices\DragonArmy\obj\Debug\DragonArmy.exe
-C:\SoftUni\DictionaryExcersices\DragonArmy\obj\Debug\DragonArmy.pdb

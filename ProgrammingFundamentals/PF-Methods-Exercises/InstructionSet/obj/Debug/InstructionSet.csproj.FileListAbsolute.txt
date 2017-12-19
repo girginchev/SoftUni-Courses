@@ -1,6 +1,0 @@
-C:\SoftUni\PFMethodsExcercises\InstructionSet\bin\Debug\InstructionSet.exe.config
-C:\SoftUni\PFMethodsExcercises\InstructionSet\bin\Debug\InstructionSet.exe
-C:\SoftUni\PFMethodsExcercises\InstructionSet\bin\Debug\InstructionSet.pdb
-C:\SoftUni\PFMethodsExcercises\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache
-C:\SoftUni\PFMethodsExcercises\InstructionSet\obj\Debug\InstructionSet.exe
-C:\SoftUni\PFMethodsExcercises\InstructionSet\obj\Debug\InstructionSet.pdb

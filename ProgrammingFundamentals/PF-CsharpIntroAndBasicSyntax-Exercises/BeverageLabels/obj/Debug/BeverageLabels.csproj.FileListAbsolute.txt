@@ -1,5 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.exe
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.pdb

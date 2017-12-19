@@ -1,6 +1,0 @@
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\KeyReplacer\bin\Debug\KeyReplacer.exe.config
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\KeyReplacer\obj\Debug\KeyReplacer.csprojResolveAssemblyReference.cache
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\KeyReplacer\bin\Debug\KeyReplacer.exe
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\KeyReplacer\bin\Debug\KeyReplacer.pdb
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\KeyReplacer\obj\Debug\KeyReplacer.exe
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\KeyReplacer\obj\Debug\KeyReplacer.pdb

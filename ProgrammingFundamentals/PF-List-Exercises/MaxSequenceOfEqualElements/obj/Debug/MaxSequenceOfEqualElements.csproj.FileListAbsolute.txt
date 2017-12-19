@@ -1,6 +1,0 @@
-C:\SoftUni\ListsExcersices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
-C:\SoftUni\ListsExcersices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
-C:\SoftUni\ListsExcersices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
-C:\SoftUni\ListsExcersices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
-C:\SoftUni\ListsExcersices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
-C:\SoftUni\ListsExcersices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

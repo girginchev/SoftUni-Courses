@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\WriteToFile\bin\Debug\WriteToFile.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\WriteToFile\bin\Debug\WriteToFile.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\WriteToFile\bin\Debug\WriteToFile.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\WriteToFile\obj\Debug\WriteToFile.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\WriteToFile\obj\Debug\WriteToFile.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\WriteToFile\obj\Debug\WriteToFile.csprojResolveAssemblyReference.cache

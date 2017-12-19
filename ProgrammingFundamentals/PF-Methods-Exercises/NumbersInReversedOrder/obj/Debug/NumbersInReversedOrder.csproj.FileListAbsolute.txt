@@ -1,6 +1,0 @@
-C:\SoftUni\PFMethodsExcercises\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
-C:\SoftUni\PFMethodsExcercises\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
-C:\SoftUni\PFMethodsExcercises\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
-C:\SoftUni\PFMethodsExcercises\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
-C:\SoftUni\PFMethodsExcercises\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb
-C:\SoftUni\PFMethodsExcercises\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.csprojResolveAssemblyReference.cache

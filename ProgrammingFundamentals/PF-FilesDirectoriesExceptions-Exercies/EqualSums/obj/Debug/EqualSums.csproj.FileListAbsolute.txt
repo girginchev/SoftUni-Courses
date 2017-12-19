@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\EqualSums\bin\Debug\EqualSums.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\EqualSums\bin\Debug\EqualSums.exe
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\EqualSums\bin\Debug\EqualSums.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\EqualSums\obj\Debug\EqualSums.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\EqualSums\obj\Debug\EqualSums.exe
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\EqualSums\obj\Debug\EqualSums.pdb

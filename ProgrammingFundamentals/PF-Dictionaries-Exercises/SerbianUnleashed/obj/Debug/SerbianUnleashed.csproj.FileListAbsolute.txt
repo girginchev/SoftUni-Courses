@@ -1,6 +1,0 @@
-C:\SoftUni\DictionaryExcersices\SerbianUnleashed\bin\Debug\SerbianUnleashed.exe.config
-C:\SoftUni\DictionaryExcersices\SerbianUnleashed\bin\Debug\SerbianUnleashed.exe
-C:\SoftUni\DictionaryExcersices\SerbianUnleashed\bin\Debug\SerbianUnleashed.pdb
-C:\SoftUni\DictionaryExcersices\SerbianUnleashed\obj\Debug\SerbianUnleashed.csprojResolveAssemblyReference.cache
-C:\SoftUni\DictionaryExcersices\SerbianUnleashed\obj\Debug\SerbianUnleashed.exe
-C:\SoftUni\DictionaryExcersices\SerbianUnleashed\obj\Debug\SerbianUnleashed.pdb

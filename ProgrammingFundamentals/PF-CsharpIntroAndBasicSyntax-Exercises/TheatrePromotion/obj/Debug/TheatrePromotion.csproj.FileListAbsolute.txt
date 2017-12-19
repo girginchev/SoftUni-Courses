@@ -1,6 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\TheatrePromotion\bin\Debug\TheatrePromotion.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\TheatrePromotion\bin\Debug\TheatrePromotion.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\TheatrePromotion\bin\Debug\TheatrePromotion.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\TheatrePromotion\obj\Debug\TheatrePromotion.csprojResolveAssemblyReference.cache
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\TheatrePromotion\obj\Debug\TheatrePromotion.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\TheatrePromotion\obj\Debug\TheatrePromotion.pdb

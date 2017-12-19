@@ -1,6 +1,0 @@
-C:\SoftUni\PFMethodsExcercises\MaxMethod\bin\Debug\MaxMethod.exe.config
-C:\SoftUni\PFMethodsExcercises\MaxMethod\obj\Debug\MaxMethod.csprojResolveAssemblyReference.cache
-C:\SoftUni\PFMethodsExcercises\MaxMethod\bin\Debug\MaxMethod.exe
-C:\SoftUni\PFMethodsExcercises\MaxMethod\bin\Debug\MaxMethod.pdb
-C:\SoftUni\PFMethodsExcercises\MaxMethod\obj\Debug\MaxMethod.exe
-C:\SoftUni\PFMethodsExcercises\MaxMethod\obj\Debug\MaxMethod.pdb

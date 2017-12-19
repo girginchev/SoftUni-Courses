@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\InventoryMatcher\bin\Debug\InventoryMatcher.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\InventoryMatcher\bin\Debug\InventoryMatcher.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\InventoryMatcher\bin\Debug\InventoryMatcher.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\InventoryMatcher\obj\Debug\InventoryMatcher.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\InventoryMatcher\obj\Debug\InventoryMatcher.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\InventoryMatcher\obj\Debug\InventoryMatcher.pdb

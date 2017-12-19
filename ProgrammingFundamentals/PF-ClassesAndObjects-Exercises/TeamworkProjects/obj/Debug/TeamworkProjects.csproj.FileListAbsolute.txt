@@ -1,6 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\TeamworkProjects\bin\Debug\TeamworkProjects.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\TeamworkProjects\bin\Debug\TeamworkProjects.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\TeamworkProjects\bin\Debug\TeamworkProjects.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\TeamworkProjects\obj\Debug\TeamworkProjects.csprojResolveAssemblyReference.cache
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\TeamworkProjects\obj\Debug\TeamworkProjects.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\TeamworkProjects\obj\Debug\TeamworkProjects.pdb

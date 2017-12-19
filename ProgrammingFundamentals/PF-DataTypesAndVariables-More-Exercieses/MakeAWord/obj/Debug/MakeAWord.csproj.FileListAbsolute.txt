@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\MakeAWord\bin\Debug\MakeAWord.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\MakeAWord\bin\Debug\MakeAWord.exe
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\MakeAWord\bin\Debug\MakeAWord.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\MakeAWord\obj\Debug\MakeAWord.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\MakeAWord\obj\Debug\MakeAWord.exe
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\MakeAWord\obj\Debug\MakeAWord.pdb

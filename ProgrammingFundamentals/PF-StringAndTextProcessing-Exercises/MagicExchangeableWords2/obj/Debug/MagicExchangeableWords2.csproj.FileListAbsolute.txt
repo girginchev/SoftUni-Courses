@@ -1,6 +1,0 @@
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MagicExchangeableWords2\bin\Debug\MagicExchangeableWords2.exe.config
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MagicExchangeableWords2\bin\Debug\MagicExchangeableWords2.exe
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MagicExchangeableWords2\bin\Debug\MagicExchangeableWords2.pdb
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MagicExchangeableWords2\obj\Debug\MagicExchangeableWords2.csprojResolveAssemblyReference.cache
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MagicExchangeableWords2\obj\Debug\MagicExchangeableWords2.exe
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\MagicExchangeableWords2\obj\Debug\MagicExchangeableWords2.pdb

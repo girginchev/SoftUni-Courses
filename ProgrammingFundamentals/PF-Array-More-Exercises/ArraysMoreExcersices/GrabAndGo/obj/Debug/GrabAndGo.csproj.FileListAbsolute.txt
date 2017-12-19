@@ -1,5 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\GrabAndGo\bin\Debug\GrabAndGo.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\GrabAndGo\bin\Debug\GrabAndGo.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\GrabAndGo\bin\Debug\GrabAndGo.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\GrabAndGo\obj\Debug\GrabAndGo.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\GrabAndGo\obj\Debug\GrabAndGo.pdb

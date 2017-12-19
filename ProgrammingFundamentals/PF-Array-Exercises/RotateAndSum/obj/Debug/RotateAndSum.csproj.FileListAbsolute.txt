@@ -1,6 +1,0 @@
-C:\SoftUni\ArraysExcercices\RotateAndSum\bin\Debug\RotateAndSum.exe.config
-C:\SoftUni\ArraysExcercices\RotateAndSum\bin\Debug\RotateAndSum.exe
-C:\SoftUni\ArraysExcercices\RotateAndSum\bin\Debug\RotateAndSum.pdb
-C:\SoftUni\ArraysExcercices\RotateAndSum\obj\Debug\RotateAndSum.exe
-C:\SoftUni\ArraysExcercices\RotateAndSum\obj\Debug\RotateAndSum.pdb
-C:\SoftUni\ArraysExcercices\RotateAndSum\obj\Debug\RotateAndSum.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\SoftUni\PFDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
-C:\SoftUni\PFDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe
-C:\SoftUni\PFDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.pdb
-C:\SoftUni\PFDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache
-C:\SoftUni\PFDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.exe
-C:\SoftUni\PFDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.pdb

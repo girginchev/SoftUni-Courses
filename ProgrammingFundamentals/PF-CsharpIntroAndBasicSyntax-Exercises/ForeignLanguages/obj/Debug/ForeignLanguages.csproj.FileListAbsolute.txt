@@ -1,1 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\ForeignLanguages\bin\Debug\ForeignLanguages.exe.config

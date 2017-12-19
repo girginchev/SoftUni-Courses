@@ -1,6 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\SupermarketDatabase\bin\Debug\SupermarketDatabase.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\SupermarketDatabase\bin\Debug\SupermarketDatabase.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\SupermarketDatabase\bin\Debug\SupermarketDatabase.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\SupermarketDatabase\obj\Debug\SupermarketDatabase.csprojResolveAssemblyReference.cache
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\SupermarketDatabase\obj\Debug\SupermarketDatabase.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\SupermarketDatabase\obj\Debug\SupermarketDatabase.pdb

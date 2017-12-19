@@ -1,6 +1,0 @@
-C:\SoftUni\DictionaryExcersices\HandsOfCards2\bin\Debug\HandsOfCards2.exe.config
-C:\SoftUni\DictionaryExcersices\HandsOfCards2\bin\Debug\HandsOfCards2.exe
-C:\SoftUni\DictionaryExcersices\HandsOfCards2\bin\Debug\HandsOfCards2.pdb
-C:\SoftUni\DictionaryExcersices\HandsOfCards2\obj\Debug\HandsOfCards2.csprojResolveAssemblyReference.cache
-C:\SoftUni\DictionaryExcersices\HandsOfCards2\obj\Debug\HandsOfCards2.exe
-C:\SoftUni\DictionaryExcersices\HandsOfCards2\obj\Debug\HandsOfCards2.pdb

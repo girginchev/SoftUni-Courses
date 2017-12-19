@@ -1,6 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\TakeOrSkipRope\bin\Debug\TakeOrSkipRope.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\TakeOrSkipRope\bin\Debug\TakeOrSkipRope.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\TakeOrSkipRope\bin\Debug\TakeOrSkipRope.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\TakeOrSkipRope\obj\Debug\TakeOrSkipRope.csprojResolveAssemblyReference.cache
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\TakeOrSkipRope\obj\Debug\TakeOrSkipRope.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\TakeOrSkipRope\obj\Debug\TakeOrSkipRope.pdb

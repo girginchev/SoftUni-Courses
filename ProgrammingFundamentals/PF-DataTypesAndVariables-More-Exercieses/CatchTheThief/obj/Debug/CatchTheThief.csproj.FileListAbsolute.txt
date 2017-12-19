@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\CatchTheThief\bin\Debug\CatchTheThief.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\CatchTheThief\bin\Debug\CatchTheThief.exe
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\CatchTheThief\bin\Debug\CatchTheThief.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\CatchTheThief\obj\Debug\CatchTheThief.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\CatchTheThief\obj\Debug\CatchTheThief.exe
-c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\CatchTheThief\obj\Debug\CatchTheThief.pdb

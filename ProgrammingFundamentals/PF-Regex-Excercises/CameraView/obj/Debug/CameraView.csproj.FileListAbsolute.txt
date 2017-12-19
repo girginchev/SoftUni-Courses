@@ -1,6 +1,0 @@
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\CameraView\bin\Debug\CameraView.exe.config
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\CameraView\bin\Debug\CameraView.exe
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\CameraView\bin\Debug\CameraView.pdb
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\CameraView\obj\Debug\CameraView.csprojResolveAssemblyReference.cache
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\CameraView\obj\Debug\CameraView.exe
-C:\Users\viktor\Documents\Visual Studio 2015\Projects\RegexExcersices\CameraView\obj\Debug\CameraView.pdb

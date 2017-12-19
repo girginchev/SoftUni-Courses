@@ -1,5 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MultiplicationTable2.0\bin\Debug\MultiplicationTable2.0.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MultiplicationTable2.0\bin\Debug\MultiplicationTable2.0.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MultiplicationTable2.0\bin\Debug\MultiplicationTable2.0.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MultiplicationTable2.0\obj\Debug\MultiplicationTable2.0.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MultiplicationTable2.0\obj\Debug\MultiplicationTable2.0.pdb

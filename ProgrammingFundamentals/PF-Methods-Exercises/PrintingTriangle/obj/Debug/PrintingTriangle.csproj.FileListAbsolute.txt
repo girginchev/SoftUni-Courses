@@ -1,6 +1,0 @@
-C:\SoftUni\PFMethodsExcercises\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
-C:\SoftUni\PFMethodsExcercises\PrintingTriangle\bin\Debug\PrintingTriangle.exe
-C:\SoftUni\PFMethodsExcercises\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
-C:\SoftUni\PFMethodsExcercises\PrintingTriangle\obj\Debug\PrintingTriangle.csprojResolveAssemblyReference.cache
-C:\SoftUni\PFMethodsExcercises\PrintingTriangle\obj\Debug\PrintingTriangle.exe
-C:\SoftUni\PFMethodsExcercises\PrintingTriangle\obj\Debug\PrintingTriangle.pdb

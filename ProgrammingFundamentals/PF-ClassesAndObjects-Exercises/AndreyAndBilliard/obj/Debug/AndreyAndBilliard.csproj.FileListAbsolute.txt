@@ -1,6 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.csprojResolveAssemblyReference.cache
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.pdb

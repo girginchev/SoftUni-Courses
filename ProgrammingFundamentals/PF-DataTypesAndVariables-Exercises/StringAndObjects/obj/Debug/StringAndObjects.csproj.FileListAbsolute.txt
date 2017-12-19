@@ -1,5 +1,0 @@
-C:\SoftUni\PFDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.exe.config
-C:\SoftUni\PFDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.exe
-C:\SoftUni\PFDataTypesAndVariables\StringAndObjects\bin\Debug\StringAndObjects.pdb
-C:\SoftUni\PFDataTypesAndVariables\StringAndObjects\obj\Debug\StringAndObjects.exe
-C:\SoftUni\PFDataTypesAndVariables\StringAndObjects\obj\Debug\StringAndObjects.pdb

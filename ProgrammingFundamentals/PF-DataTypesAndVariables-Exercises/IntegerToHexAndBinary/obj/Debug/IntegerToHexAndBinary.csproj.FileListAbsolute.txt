@@ -1,6 +1,0 @@
-C:\SoftUni\PFDataTypesAndVariables\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe.config
-C:\SoftUni\PFDataTypesAndVariables\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe
-C:\SoftUni\PFDataTypesAndVariables\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.pdb
-C:\SoftUni\PFDataTypesAndVariables\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.csprojResolveAssemblyReference.cache
-C:\SoftUni\PFDataTypesAndVariables\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.exe
-C:\SoftUni\PFDataTypesAndVariables\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.pdb

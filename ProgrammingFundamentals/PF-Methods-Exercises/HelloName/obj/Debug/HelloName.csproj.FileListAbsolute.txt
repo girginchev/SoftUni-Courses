@@ -1,6 +1,0 @@
-C:\SoftUni\PFMethodsExcercises\HelloName\bin\Debug\HelloName.exe.config
-C:\SoftUni\PFMethodsExcercises\HelloName\bin\Debug\HelloName.exe
-C:\SoftUni\PFMethodsExcercises\HelloName\bin\Debug\HelloName.pdb
-C:\SoftUni\PFMethodsExcercises\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
-C:\SoftUni\PFMethodsExcercises\HelloName\obj\Debug\HelloName.exe
-C:\SoftUni\PFMethodsExcercises\HelloName\obj\Debug\HelloName.pdb

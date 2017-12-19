@@ -1,6 +1,0 @@
-C:\SoftUni\ArraysExcercices\FoldAndSum2\bin\Debug\FoldAndSum2.exe.config
-C:\SoftUni\ArraysExcercices\FoldAndSum2\bin\Debug\FoldAndSum2.exe
-C:\SoftUni\ArraysExcercices\FoldAndSum2\bin\Debug\FoldAndSum2.pdb
-C:\SoftUni\ArraysExcercices\FoldAndSum2\obj\Debug\FoldAndSum2.csprojResolveAssemblyReference.cache
-C:\SoftUni\ArraysExcercices\FoldAndSum2\obj\Debug\FoldAndSum2.exe
-C:\SoftUni\ArraysExcercices\FoldAndSum2\obj\Debug\FoldAndSum2.pdb

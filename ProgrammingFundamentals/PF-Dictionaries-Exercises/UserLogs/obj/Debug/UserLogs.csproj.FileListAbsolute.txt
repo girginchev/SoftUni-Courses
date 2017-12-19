@@ -1,6 +1,0 @@
-C:\SoftUni\DictionaryExcersices\UserLogs\bin\Debug\UserLogs.exe.config
-C:\SoftUni\DictionaryExcersices\UserLogs\bin\Debug\UserLogs.exe
-C:\SoftUni\DictionaryExcersices\UserLogs\bin\Debug\UserLogs.pdb
-C:\SoftUni\DictionaryExcersices\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
-C:\SoftUni\DictionaryExcersices\UserLogs\obj\Debug\UserLogs.exe
-C:\SoftUni\DictionaryExcersices\UserLogs\obj\Debug\UserLogs.pdb

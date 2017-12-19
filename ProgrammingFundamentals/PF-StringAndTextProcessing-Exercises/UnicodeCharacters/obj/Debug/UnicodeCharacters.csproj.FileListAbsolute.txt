@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
-c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
-c:\users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

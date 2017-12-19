@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\Heists\bin\Debug\Heists.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\Heists\obj\Debug\Heists.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\Heists\bin\Debug\Heists.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\Heists\bin\Debug\Heists.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\Heists\obj\Debug\Heists.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\Heists\obj\Debug\Heists.pdb

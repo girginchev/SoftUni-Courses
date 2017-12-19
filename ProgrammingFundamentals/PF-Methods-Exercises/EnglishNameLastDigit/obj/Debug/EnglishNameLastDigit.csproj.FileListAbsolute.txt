@@ -1,5 +1,0 @@
-C:\SoftUni\PFMethodsExcercises\EnglishNameLastDigit\bin\Debug\EnglishNameLastDigit.exe.config
-C:\SoftUni\PFMethodsExcercises\EnglishNameLastDigit\bin\Debug\EnglishNameLastDigit.exe
-C:\SoftUni\PFMethodsExcercises\EnglishNameLastDigit\bin\Debug\EnglishNameLastDigit.pdb
-C:\SoftUni\PFMethodsExcercises\EnglishNameLastDigit\obj\Debug\EnglishNameLastDigit.exe
-C:\SoftUni\PFMethodsExcercises\EnglishNameLastDigit\obj\Debug\EnglishNameLastDigit.pdb

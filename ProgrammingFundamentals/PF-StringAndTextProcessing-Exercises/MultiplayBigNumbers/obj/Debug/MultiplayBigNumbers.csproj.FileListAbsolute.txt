@@ -1,5 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\MultiplayBigNumbers\bin\Debug\MultiplayBigNumbers.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\MultiplayBigNumbers\bin\Debug\MultiplayBigNumbers.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\MultiplayBigNumbers\bin\Debug\MultiplayBigNumbers.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\MultiplayBigNumbers\obj\Debug\MultiplayBigNumbers.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\StringsAndTextProcessing\MultiplayBigNumbers\obj\Debug\MultiplayBigNumbers.pdb

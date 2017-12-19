@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Mines\bin\Debug\Mines.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Mines\bin\Debug\Mines.exe
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Mines\bin\Debug\Mines.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Mines\obj\Debug\Mines.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Mines\obj\Debug\Mines.exe
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Mines\obj\Debug\Mines.pdb

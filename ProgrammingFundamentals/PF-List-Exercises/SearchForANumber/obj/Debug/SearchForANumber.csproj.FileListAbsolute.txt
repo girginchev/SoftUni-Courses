@@ -1,6 +1,0 @@
-C:\SoftUni\ListsExcersices\SearchForANumber\bin\Debug\SearchForANumber.exe.config
-C:\SoftUni\ListsExcersices\SearchForANumber\bin\Debug\SearchForANumber.exe
-C:\SoftUni\ListsExcersices\SearchForANumber\bin\Debug\SearchForANumber.pdb
-C:\SoftUni\ListsExcersices\SearchForANumber\obj\Debug\SearchForANumber.csprojResolveAssemblyReference.cache
-C:\SoftUni\ListsExcersices\SearchForANumber\obj\Debug\SearchForANumber.exe
-C:\SoftUni\ListsExcersices\SearchForANumber\obj\Debug\SearchForANumber.pdb

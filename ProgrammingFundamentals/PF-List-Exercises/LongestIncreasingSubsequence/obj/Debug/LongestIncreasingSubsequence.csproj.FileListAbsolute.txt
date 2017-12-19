@@ -1,6 +1,0 @@
-C:\SoftUni\ListsExcersices\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe.config
-C:\SoftUni\ListsExcersices\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe
-C:\SoftUni\ListsExcersices\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.pdb
-C:\SoftUni\ListsExcersices\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
-C:\SoftUni\ListsExcersices\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.exe
-C:\SoftUni\ListsExcersices\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.pdb

@@ -1,6 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
-C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.pdb

@@ -1,5 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\IndexOfLetters\bin\Debug\IndexOfLetters.exe
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\IndexOfLetters\obj\Debug\IndexOfLetters.exe
-c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

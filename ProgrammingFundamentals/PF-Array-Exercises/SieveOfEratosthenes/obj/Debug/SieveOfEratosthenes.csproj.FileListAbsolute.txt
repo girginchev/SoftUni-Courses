@@ -1,6 +1,0 @@
-C:\SoftUni\ArraysExcercices\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
-C:\SoftUni\ArraysExcercices\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
-C:\SoftUni\ArraysExcercices\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
-C:\SoftUni\ArraysExcercices\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
-C:\SoftUni\ArraysExcercices\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
-C:\SoftUni\ArraysExcercices\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

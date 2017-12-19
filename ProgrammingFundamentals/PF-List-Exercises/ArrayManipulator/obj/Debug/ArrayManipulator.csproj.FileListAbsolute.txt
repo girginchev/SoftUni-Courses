@@ -1,6 +1,0 @@
-C:\SoftUni\ListsExcersices\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
-C:\SoftUni\ListsExcersices\ArrayManipulator\bin\Debug\ArrayManipulator.exe
-C:\SoftUni\ListsExcersices\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
-C:\SoftUni\ListsExcersices\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
-C:\SoftUni\ListsExcersices\ArrayManipulator\obj\Debug\ArrayManipulator.exe
-C:\SoftUni\ListsExcersices\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

@@ -1,6 +1,0 @@
-C:\SoftUni\ListsExcersices\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe.config
-C:\SoftUni\ListsExcersices\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe
-C:\SoftUni\ListsExcersices\SumReversedNumbers\bin\Debug\SumReversedNumbers.pdb
-C:\SoftUni\ListsExcersices\SumReversedNumbers\obj\Debug\SumReversedNumbers.exe
-C:\SoftUni\ListsExcersices\SumReversedNumbers\obj\Debug\SumReversedNumbers.pdb
-C:\SoftUni\ListsExcersices\SumReversedNumbers\obj\Debug\SumReversedNumbers.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\SoftUni\PFDataTypesAndVariables\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
-C:\SoftUni\PFDataTypesAndVariables\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
-C:\SoftUni\PFDataTypesAndVariables\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
-C:\SoftUni\PFDataTypesAndVariables\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csprojResolveAssemblyReference.cache
-C:\SoftUni\PFDataTypesAndVariables\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
-C:\SoftUni\PFDataTypesAndVariables\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

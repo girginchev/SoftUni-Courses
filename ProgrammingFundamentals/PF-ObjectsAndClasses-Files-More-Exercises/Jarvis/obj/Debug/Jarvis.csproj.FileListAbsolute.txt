@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\Jarvis\bin\Debug\Jarvis.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\Jarvis\bin\Debug\Jarvis.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\Jarvis\bin\Debug\Jarvis.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\Jarvis\obj\Debug\Jarvis.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\Jarvis\obj\Debug\Jarvis.pdb

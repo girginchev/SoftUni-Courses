@@ -1,5 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MilesToKilometers\bin\Debug\MilesToKilometers.exe
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MilesToKilometers\obj\Debug\MilesToKilometers.exe
-c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\MilesToKilometers\obj\Debug\MilesToKilometers.pdb

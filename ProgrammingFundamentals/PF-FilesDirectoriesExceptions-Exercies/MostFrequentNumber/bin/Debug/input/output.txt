@@ -1,1 +1,0 @@
-The number 2 is the most frequent (occurs 7 times)

@@ -1,1 +1,0 @@
-C:\SoftUni\DictionaryExcersices\PhoneBook\bin\Debug\PhoneBook.exe.config

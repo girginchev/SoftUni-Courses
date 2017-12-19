@@ -1,5 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\NumberChecker\bin\Debug\NumberChecker.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\NumberChecker\bin\Debug\NumberChecker.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\NumberChecker\bin\Debug\NumberChecker.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\NumberChecker\obj\Debug\NumberChecker.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\NumberChecker\obj\Debug\NumberChecker.pdb

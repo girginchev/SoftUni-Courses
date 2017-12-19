@@ -1,5 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\OddFilter\bin\Debug\OddFilter.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\OddFilter\bin\Debug\OddFilter.exe
-c:\users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\OddFilter\bin\Debug\OddFilter.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\OddFilter\obj\Debug\OddFilter.exe
-c:\users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\OddFilter\obj\Debug\OddFilter.pdb

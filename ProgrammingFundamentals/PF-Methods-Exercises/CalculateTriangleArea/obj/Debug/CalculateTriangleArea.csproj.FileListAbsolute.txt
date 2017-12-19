@@ -1,1 +1,0 @@
-C:\SoftUni\PFMethodsExcercises\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config

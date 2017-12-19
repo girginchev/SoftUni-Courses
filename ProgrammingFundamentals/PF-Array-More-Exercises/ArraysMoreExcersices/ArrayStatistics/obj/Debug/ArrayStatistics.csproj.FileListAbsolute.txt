@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ArrayStatistics\bin\Debug\ArrayStatistics.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ArrayStatistics\obj\Debug\ArrayStatistics.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ArrayStatistics\bin\Debug\ArrayStatistics.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ArrayStatistics\bin\Debug\ArrayStatistics.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ArrayStatistics\obj\Debug\ArrayStatistics.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ArrayStatistics\obj\Debug\ArrayStatistics.pdb

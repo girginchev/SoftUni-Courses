@@ -1,6 +1,0 @@
-C:\SoftUni\ListsExcersices\BombNumbers\bin\Debug\BombNumbers.exe.config
-C:\SoftUni\ListsExcersices\BombNumbers\bin\Debug\BombNumbers.exe
-C:\SoftUni\ListsExcersices\BombNumbers\bin\Debug\BombNumbers.pdb
-C:\SoftUni\ListsExcersices\BombNumbers\obj\Debug\BombNumbers.exe
-C:\SoftUni\ListsExcersices\BombNumbers\obj\Debug\BombNumbers.pdb
-C:\SoftUni\ListsExcersices\BombNumbers\obj\Debug\BombNumbers.csprojResolveAssemblyReference.cache

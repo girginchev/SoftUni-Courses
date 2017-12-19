@@ -1,5 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\JumpAround\bin\Debug\JumpAround.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\JumpAround\bin\Debug\JumpAround.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\JumpAround\bin\Debug\JumpAround.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\JumpAround\obj\Debug\JumpAround.exe
-c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\JumpAround\obj\Debug\JumpAround.pdb

@@ -1,6 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\CirclesIntersection\bin\Debug\CirclesIntersection.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\CirclesIntersection\bin\Debug\CirclesIntersection.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\CirclesIntersection\bin\Debug\CirclesIntersection.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\CirclesIntersection\obj\Debug\CirclesIntersection.csprojResolveAssemblyReference.cache
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\CirclesIntersection\obj\Debug\CirclesIntersection.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\ClassesAndObjects\CirclesIntersection\obj\Debug\CirclesIntersection.pdb

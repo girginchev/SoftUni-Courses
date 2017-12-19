@@ -1,1 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\DivisibleBy3\bin\Debug\DivisibleBy3.exe.config

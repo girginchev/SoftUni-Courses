@@ -1,5 +1,0 @@
-C:\SoftUni\PFMethodsExcercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe.config
-C:\SoftUni\PFMethodsExcercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe
-C:\SoftUni\PFMethodsExcercises\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.pdb
-C:\SoftUni\PFMethodsExcercises\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.exe
-C:\SoftUni\PFMethodsExcercises\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.pdb

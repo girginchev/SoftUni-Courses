@@ -1,6 +1,0 @@
-C:\SoftUni\PFDataTypesAndVariables\PrintPartASCIITable\bin\Debug\PrintPartASCIITable.exe.config
-C:\SoftUni\PFDataTypesAndVariables\PrintPartASCIITable\bin\Debug\PrintPartASCIITable.exe
-C:\SoftUni\PFDataTypesAndVariables\PrintPartASCIITable\bin\Debug\PrintPartASCIITable.pdb
-C:\SoftUni\PFDataTypesAndVariables\PrintPartASCIITable\obj\Debug\PrintPartASCIITable.csprojResolveAssemblyReference.cache
-C:\SoftUni\PFDataTypesAndVariables\PrintPartASCIITable\obj\Debug\PrintPartASCIITable.exe
-C:\SoftUni\PFDataTypesAndVariables\PrintPartASCIITable\obj\Debug\PrintPartASCIITable.pdb

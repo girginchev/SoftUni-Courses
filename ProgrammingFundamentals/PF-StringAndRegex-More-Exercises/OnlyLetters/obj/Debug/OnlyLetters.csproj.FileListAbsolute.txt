@@ -1,6 +1,0 @@
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\OnlyLetters\bin\Debug\OnlyLetters.exe.config
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\OnlyLetters\bin\Debug\OnlyLetters.exe
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\OnlyLetters\bin\Debug\OnlyLetters.pdb
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\OnlyLetters\obj\Debug\OnlyLetters.csprojResolveAssemblyReference.cache
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\OnlyLetters\obj\Debug\OnlyLetters.exe
-c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\OnlyLetters\obj\Debug\OnlyLetters.pdb

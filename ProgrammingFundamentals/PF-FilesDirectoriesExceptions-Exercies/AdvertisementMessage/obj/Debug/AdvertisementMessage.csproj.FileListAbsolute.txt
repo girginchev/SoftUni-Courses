@@ -1,6 +1,0 @@
-C:\Users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe.config
-C:\Users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AdvertisementMessage\bin\Debug\AdvertisementMessage.pdb
-C:\Users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AdvertisementMessage\obj\Debug\AdvertisementMessage.csprojResolveAssemblyReference.cache
-C:\Users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AdvertisementMessage\obj\Debug\AdvertisementMessage.exe
-C:\Users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\AdvertisementMessage\obj\Debug\AdvertisementMessage.pdb

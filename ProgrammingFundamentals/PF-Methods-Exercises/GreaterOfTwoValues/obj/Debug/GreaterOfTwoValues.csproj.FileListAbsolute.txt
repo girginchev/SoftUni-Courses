@@ -1,6 +1,0 @@
-C:\SoftUni\PFMethodsExcercises\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe.config
-C:\SoftUni\PFMethodsExcercises\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe
-C:\SoftUni\PFMethodsExcercises\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.pdb
-C:\SoftUni\PFMethodsExcercises\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.csprojResolveAssemblyReference.cache
-C:\SoftUni\PFMethodsExcercises\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.exe
-C:\SoftUni\PFMethodsExcercises\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.pdb
