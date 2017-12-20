@@ -1,6 +1,6 @@
 # <p align="left"> Courses from the main program in SoftUni <p>
 
-<a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="https://github.com/girginchev/SoftUni-Courses/blob/master/ProgrammingBasics/Exam_20170319/Bills/bin/Debug/Software-University-Logo-blue-horizontal.png" alt="Softuni logo" width="200" align="right"></a>
+<a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="https://github.com/girginchev/SoftUni-Courses/blob/master/ProgrammingBasics/Exam_20170319/Bills/bin/Debug/Software-University-Logo-blue-horizontal.png" alt="Softuni logo" width="400" align="center"></a>
 
 <br/>
 <br/>
@@ -36,21 +36,21 @@ The course includes:
 
 ## Tasks
 
-1. [Basic Syntax] (https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-CsharpIntroAndBasicSyntax-Exercises)
+1. [Basic Syntax](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-CsharpIntroAndBasicSyntax-Exercises)
 2. [Data Types and Variables](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-DataTypesAndVariables-Exercises)
 3. [Data Types and Variables - more exercises](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-DataTypesAndVariables-More-Exercieses)
-4. [Methods and Debugging] (https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-Methods-Exercises)
+4. [Methods and Debugging](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-Methods-Exercises)
 5. [Arrays](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-Array-Exercises)
-6.  [Arrays- more excercises] (https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-Array-More-Exercises)
-7. [Lists] (https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-List-Exercises)
+6.  [Arrays- more excercises](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-Array-More-Exercises)
+7. [Lists](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-List-Exercises)
 8. [Dictionaries, Lambda and LINQ](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-Dictionaries-Exercises)
 9. [Dictionaries, Lambda and LINQ - more exercises](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-DictionariesAndLists-More-Exercises)
 10. [Objects and Classes](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-ClassesAndObjects-Exercises)
-11. [Objects and Calsses - more exercises] (https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-ObjectsAndClasses-Files-More-Exercises)
+11. [Objects and Calsses - more exercises](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-ObjectsAndClasses-Files-More-Exercises)
 12. [Files and Directories](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-FilesDirectoriesExceptions-Exercies)
 13. [Strings processing](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-StringAndTextProcessing-Exercises)
-14. [Regex] (https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-Regex-Excercises)
-15. [String processing and Regex - more exercies] (https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-StringAndRegex-More-Exercises)
+14. [Regex](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-Regex-Excercises)
+15. [String processing and Regex - more exercies](https://github.com/girginchev/SoftUni-Courses/tree/master/ProgrammingFundamentals/Excercises/PF-StringAndRegex-More-Exercises)
 
 
 ## Exam
