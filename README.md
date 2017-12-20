@@ -1,6 +1,6 @@
 # <p align="left"> Courses from the main program in SoftUni <p>
 
-<a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="https://github.com/girginchev/SoftUni-Courses/blob/master/ProgrammingBasics/Exam_20170319/Bills/bin/Debug/Software-University-Logo-blue-horizontal.png" alt="Softuni logo" width="400" align="center"></a>
+<p align="center"><a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="https://github.com/girginchev/SoftUni-Courses/blob/master/ProgrammingBasics/Exam_20170319/Bills/bin/Debug/Software-University-Logo-blue-horizontal.png" alt="Softuni logo" width="400" align="center"></a><p>
 
 <br/>
 <br/>
