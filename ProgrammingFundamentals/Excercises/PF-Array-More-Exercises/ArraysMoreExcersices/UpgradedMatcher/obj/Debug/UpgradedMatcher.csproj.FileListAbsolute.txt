@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\UpgradedMatcher\bin\Debug\UpgradedMatcher.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\UpgradedMatcher\bin\Debug\UpgradedMatcher.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\UpgradedMatcher\bin\Debug\UpgradedMatcher.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\UpgradedMatcher\obj\Debug\UpgradedMatcher.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\UpgradedMatcher\obj\Debug\UpgradedMatcher.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\UpgradedMatcher\obj\Debug\UpgradedMatcher.pdb

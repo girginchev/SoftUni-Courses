@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ManipulateArray\bin\Debug\ManipulateArray.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ManipulateArray\bin\Debug\ManipulateArray.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ManipulateArray\bin\Debug\ManipulateArray.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ManipulateArray\obj\Debug\ManipulateArray.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ManipulateArray\obj\Debug\ManipulateArray.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ArraysMoreExcersices\ManipulateArray\obj\Debug\ManipulateArray.pdb

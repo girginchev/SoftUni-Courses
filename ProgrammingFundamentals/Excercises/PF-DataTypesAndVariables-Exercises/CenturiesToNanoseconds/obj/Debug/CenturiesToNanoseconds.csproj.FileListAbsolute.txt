@@ -1,0 +1,6 @@
+C:\SoftUni\PFDataTypesAndVariables\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+C:\SoftUni\PFDataTypesAndVariables\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+C:\SoftUni\PFDataTypesAndVariables\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+C:\SoftUni\PFDataTypesAndVariables\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+C:\SoftUni\PFDataTypesAndVariables\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb
+C:\SoftUni\PFDataTypesAndVariables\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache

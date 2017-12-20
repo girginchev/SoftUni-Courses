@@ -1,0 +1,6 @@
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ByteFlip\bin\Debug\ByteFlip.exe.config
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ByteFlip\bin\Debug\ByteFlip.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ByteFlip\bin\Debug\ByteFlip.pdb
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ByteFlip\obj\Debug\ByteFlip.csprojResolveAssemblyReference.cache
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ByteFlip\obj\Debug\ByteFlip.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ByteFlip\obj\Debug\ByteFlip.pdb

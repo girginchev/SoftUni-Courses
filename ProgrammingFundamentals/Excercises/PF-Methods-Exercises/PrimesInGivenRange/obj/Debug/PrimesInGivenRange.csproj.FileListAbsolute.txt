@@ -1,0 +1,6 @@
+C:\SoftUni\PFMethodsExcercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+C:\SoftUni\PFMethodsExcercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+C:\SoftUni\PFMethodsExcercises\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+C:\SoftUni\PFMethodsExcercises\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\SoftUni\PFMethodsExcercises\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+C:\SoftUni\PFMethodsExcercises\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

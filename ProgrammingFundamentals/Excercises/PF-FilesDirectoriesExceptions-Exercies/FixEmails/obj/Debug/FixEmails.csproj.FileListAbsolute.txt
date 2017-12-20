@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\FixEmails\bin\Debug\FixEmails.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\FixEmails\bin\Debug\FixEmails.exe
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\FixEmails\bin\Debug\FixEmails.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\FixEmails\obj\Debug\FixEmails.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\FixEmails\obj\Debug\FixEmails.exe
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\FixEmails\obj\Debug\FixEmails.pdb

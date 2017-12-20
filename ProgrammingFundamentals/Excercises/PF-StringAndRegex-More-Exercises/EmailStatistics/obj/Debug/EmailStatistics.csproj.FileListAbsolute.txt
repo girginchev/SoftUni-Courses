@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\EmailStatistics\bin\Debug\EmailStatistics.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\EmailStatistics\bin\Debug\EmailStatistics.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\EmailStatistics\bin\Debug\EmailStatistics.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\EmailStatistics\obj\Debug\EmailStatistics.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\EmailStatistics\obj\Debug\EmailStatistics.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\EmailStatistics\obj\Debug\EmailStatistics.pdb

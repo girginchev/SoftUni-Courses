@@ -1,0 +1,6 @@
+C:\SoftUni\PFMethodsExcercises\LongerLine\bin\Debug\LongerLine.exe.config
+C:\SoftUni\PFMethodsExcercises\LongerLine\bin\Debug\LongerLine.exe
+C:\SoftUni\PFMethodsExcercises\LongerLine\bin\Debug\LongerLine.pdb
+C:\SoftUni\PFMethodsExcercises\LongerLine\obj\Debug\LongerLine.csprojResolveAssemblyReference.cache
+C:\SoftUni\PFMethodsExcercises\LongerLine\obj\Debug\LongerLine.exe
+C:\SoftUni\PFMethodsExcercises\LongerLine\obj\Debug\LongerLine.pdb

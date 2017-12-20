@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\MostFrequentNumber\obj\Debug\MostFrequentNumber.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+c:\users\viktor\documents\visual studio 2015\Projects\FilesAndDirectoriesExcersices\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

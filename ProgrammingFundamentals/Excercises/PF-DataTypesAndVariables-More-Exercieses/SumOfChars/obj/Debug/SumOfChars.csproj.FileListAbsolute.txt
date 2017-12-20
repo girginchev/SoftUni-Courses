@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SumOfChars\bin\Debug\SumOfChars.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SumOfChars\bin\Debug\SumOfChars.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SumOfChars\bin\Debug\SumOfChars.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SumOfChars\obj\Debug\SumOfChars.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SumOfChars\obj\Debug\SumOfChars.pdb

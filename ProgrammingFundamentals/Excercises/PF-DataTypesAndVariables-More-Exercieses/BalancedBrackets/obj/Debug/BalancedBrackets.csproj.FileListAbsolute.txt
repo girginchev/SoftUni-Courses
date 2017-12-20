@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\BalancedBrackets\bin\Debug\BalancedBrackets.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\BalancedBrackets\bin\Debug\BalancedBrackets.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\BalancedBrackets\bin\Debug\BalancedBrackets.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\BalancedBrackets\obj\Debug\BalancedBrackets.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\BalancedBrackets\obj\Debug\BalancedBrackets.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\BalancedBrackets\obj\Debug\BalancedBrackets.pdb

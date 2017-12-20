@@ -1,0 +1,6 @@
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractEmails\bin\Debug\ExtractEmails.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractEmails\bin\Debug\ExtractEmails.pdb
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractEmails\obj\Debug\ExtractEmails.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\ExtractEmails\obj\Debug\ExtractEmails.pdb

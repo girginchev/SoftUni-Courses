@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe
+c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BackIn30Minutes\bin\Debug\BackIn30Minutes.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BackIn30Minutes\obj\Debug\BackIn30Minutes.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BackIn30Minutes\obj\Debug\BackIn30Minutes.exe
+c:\users\viktor\documents\visual studio 2015\Projects\CSharpIntroAndBasicSyntax\BackIn30Minutes\obj\Debug\BackIn30Minutes.pdb

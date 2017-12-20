@@ -1,0 +1,6 @@
+C:\SoftUni\PFDataTypesAndVariables\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+C:\SoftUni\PFDataTypesAndVariables\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+C:\SoftUni\PFDataTypesAndVariables\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+C:\SoftUni\PFDataTypesAndVariables\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+C:\SoftUni\PFDataTypesAndVariables\VowelOrDigit\obj\Debug\VowelOrDigit.pdb
+C:\SoftUni\PFDataTypesAndVariables\VowelOrDigit\obj\Debug\VowelOrDigit.csprojResolveAssemblyReference.cache

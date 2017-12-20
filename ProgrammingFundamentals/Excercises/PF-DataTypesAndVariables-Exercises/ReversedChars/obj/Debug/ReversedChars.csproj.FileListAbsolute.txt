@@ -1,0 +1,5 @@
+C:\SoftUni\PFDataTypesAndVariables\ReversedChars\bin\Debug\ReversedChars.exe.config
+C:\SoftUni\PFDataTypesAndVariables\ReversedChars\bin\Debug\ReversedChars.exe
+C:\SoftUni\PFDataTypesAndVariables\ReversedChars\bin\Debug\ReversedChars.pdb
+C:\SoftUni\PFDataTypesAndVariables\ReversedChars\obj\Debug\ReversedChars.exe
+C:\SoftUni\PFDataTypesAndVariables\ReversedChars\obj\Debug\ReversedChars.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\PFMethodsExcercises\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe.config
+C:\SoftUni\PFMethodsExcercises\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe
+C:\SoftUni\PFMethodsExcercises\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.pdb
+C:\SoftUni\PFMethodsExcercises\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.exe
+C:\SoftUni\PFMethodsExcercises\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.pdb

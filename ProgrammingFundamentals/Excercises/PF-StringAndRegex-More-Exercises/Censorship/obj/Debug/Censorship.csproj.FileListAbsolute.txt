@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Censorship\bin\Debug\Censorship.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Censorship\bin\Debug\Censorship.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Censorship\bin\Debug\Censorship.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Censorship\obj\Debug\Censorship.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Censorship\obj\Debug\Censorship.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\Censorship\obj\Debug\Censorship.pdb

@@ -1,0 +1,6 @@
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\QueryMess\bin\Debug\QueryMess.exe.config
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\QueryMess\bin\Debug\QueryMess.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\QueryMess\bin\Debug\QueryMess.pdb
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\QueryMess\obj\Debug\QueryMess.csprojResolveAssemblyReference.cache
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\QueryMess\obj\Debug\QueryMess.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\RegexExcersices\QueryMess\obj\Debug\QueryMess.pdb

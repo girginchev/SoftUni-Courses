@@ -1,0 +1,6 @@
+C:\SoftUni\PFMethodsExcercises\MasterNumber\bin\Debug\MasterNumber.exe.config
+C:\SoftUni\PFMethodsExcercises\MasterNumber\bin\Debug\MasterNumber.exe
+C:\SoftUni\PFMethodsExcercises\MasterNumber\bin\Debug\MasterNumber.pdb
+C:\SoftUni\PFMethodsExcercises\MasterNumber\obj\Debug\MasterNumber.csprojResolveAssemblyReference.cache
+C:\SoftUni\PFMethodsExcercises\MasterNumber\obj\Debug\MasterNumber.exe
+C:\SoftUni\PFMethodsExcercises\MasterNumber\obj\Debug\MasterNumber.pdb

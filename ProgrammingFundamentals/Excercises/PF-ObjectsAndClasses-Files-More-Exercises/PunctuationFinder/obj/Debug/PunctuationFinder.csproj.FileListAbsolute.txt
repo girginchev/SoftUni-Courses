@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PunctuationFinder\bin\Debug\PunctuationFinder.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PunctuationFinder\bin\Debug\PunctuationFinder.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PunctuationFinder\bin\Debug\PunctuationFinder.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PunctuationFinder\obj\Debug\PunctuationFinder.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PunctuationFinder\obj\Debug\PunctuationFinder.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ObjectsAndClassesMoreExcersices\PunctuationFinder\obj\Debug\PunctuationFinder.pdb

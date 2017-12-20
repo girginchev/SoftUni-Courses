@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SentenceTheThief\bin\Debug\SentenceTheThief.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SentenceTheThief\bin\Debug\SentenceTheThief.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SentenceTheThief\bin\Debug\SentenceTheThief.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SentenceTheThief\obj\Debug\SentenceTheThief.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DataTypeAndVariablesMoreExcercises\SentenceTheThief\obj\Debug\SentenceTheThief.pdb

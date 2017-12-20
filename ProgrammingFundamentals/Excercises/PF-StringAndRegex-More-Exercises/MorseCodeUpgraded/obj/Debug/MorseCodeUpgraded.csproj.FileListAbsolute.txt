@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\MorseCodeUpgraded\bin\Debug\MorseCodeUpgraded.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\MorseCodeUpgraded\bin\Debug\MorseCodeUpgraded.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\MorseCodeUpgraded\bin\Debug\MorseCodeUpgraded.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\MorseCodeUpgraded\obj\Debug\MorseCodeUpgraded.exe
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\MorseCodeUpgraded\obj\Debug\MorseCodeUpgraded.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\StringAndRegexMoreExcercises\MorseCodeUpgraded\obj\Debug\MorseCodeUpgraded.csprojResolveAssemblyReference.cache

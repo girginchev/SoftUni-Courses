@@ -1,0 +1,6 @@
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ParkingValidation\bin\Debug\ParkingValidation.exe.config
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ParkingValidation\bin\Debug\ParkingValidation.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ParkingValidation\bin\Debug\ParkingValidation.pdb
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ParkingValidation\obj\Debug\ParkingValidation.csprojResolveAssemblyReference.cache
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ParkingValidation\obj\Debug\ParkingValidation.exe
+C:\Users\viktor\documents\visual studio 2015\Projects\DictionariesMoreExcercises\ParkingValidation\obj\Debug\ParkingValidation.pdb

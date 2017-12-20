@@ -1,0 +1,5 @@
+C:\SoftUni\ArraysExcercices\PairsByDifference\bin\Debug\PairsByDifference.exe.config
+C:\SoftUni\ArraysExcercices\PairsByDifference\bin\Debug\PairsByDifference.exe
+C:\SoftUni\ArraysExcercices\PairsByDifference\bin\Debug\PairsByDifference.pdb
+C:\SoftUni\ArraysExcercices\PairsByDifference\obj\Debug\PairsByDifference.exe
+C:\SoftUni\ArraysExcercices\PairsByDifference\obj\Debug\PairsByDifference.pdb
