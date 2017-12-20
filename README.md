@@ -1,8 +1,7 @@
 # <p align="left"> Courses from the main program in SoftUni <p>
 
-<a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
+# <p align="center"><a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="github.com/girginchev/SoftUni-Courses/blob/master/ProgrammingBasics/Exam_20170319/Bills/bin/Debug/Software-University-Logo-blue-horizontal.png> <a/><p>
 
-[logo]: https://github.com/girginchev/SoftUni-Courses/blob/master/ProgrammingBasics/Exam_20170319/Bills/bin/Debug/Software-University-Logo-blue-horizontal.png "Logo Title Text 2"
 
 <br/>
 <br/>
