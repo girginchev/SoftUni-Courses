@@ -67,3 +67,6 @@ The course includes:
 |<a href="https://softuni.bg/trainings/1390/software-technologies-june-2016"> Software Technologies  </a> | <a href="https://softuni.bg/certificates/details/22756/5bc18024"> Link</a> |
 |<a href="https://softuni.bg/trainings/1747/databases-basics-mssql-server-september-2017/internal"> Databases Basics - MS SQL Server </a> | <a href="https://softuni.bg/certificates/details/23825/c650a056"> Link</a> |
 |<a href="https://softuni.bg/trainings/1741/databases-advanced-entity-framework-october-2017"> Databases Advanced - Entity Framework </a> | <a href="https://softuni.bg/Certificates/Details/49659/5679be39"> Link</a> |
+|<a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018#lesson-7687"> CSharp Advanced </a> | <a href="https://softuni.bg/certificates/details/51430/bca30c56"> Link</a> |
+|<a href="https://softuni.bg/trainings/1842/csharp-oop-basics-february-2018"> CSharp OOP Basic </a> | <a href="https://softuni.bg/certificates/details/52546/274c17eb"> Link</a> |
+|<a href="https://softuni.bg/trainings/1843/csharp-oop-advanced-march-2018"> CSharp OOP Advanced </a> | <a href="https://softuni.bg/certificates/details/53346/73e402b1"> Link</a> |
